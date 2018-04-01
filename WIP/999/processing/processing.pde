@@ -1,3 +1,6 @@
+
+OpenSimplexNoise noise;
+
 float counter = 0;
 int radius = 4;
 
