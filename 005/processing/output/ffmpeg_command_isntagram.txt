@@ -1,0 +1,1 @@
+ffmpeg -i 005_%6d.png -an -c:v libx264 -strict -2 -r 30 -pix_fmt yuv420p -shortest 005.mov
